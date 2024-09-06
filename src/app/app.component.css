@@ -1,0 +1,7 @@
+.inStock{
+    color: black;
+}
+.outOfStock{
+    color: red;
+    text-decoration: line-through;
+}
